@@ -1,7 +1,7 @@
 ## 📜 Certification 🎉  
 
-**AWS Cloud Practitioner**  
+**Udemy-Terraform Associate 003 Certificate**  
 
-Issued by **Amazon Web Services (AWS)** | **August-25-2024**  
+Issued by **Udemy** | **July-09-2024**  
 
-[👀View Badge🏅](https://www.credly.com/badges/33bc6542-469c-40ce-b811-e39c56d6c646/public_url)
+[👀View Achievement✊](https://www.udemy.com/certificate/UC-c4715f4b-c47f-43a4-b4d8-53098e0e6f68/)
