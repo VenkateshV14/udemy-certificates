@@ -1,7 +1,9 @@
-## 📜 Certification 🎉  
+# My Certifications
+### 🏆 AWS Cloud Practitioner  
+🔗 [View AWS Certificate](certificates/aws-cert.md)  
 
-**Udemy-Terraform Associate 003 Certificate**  
+### 🏆 HashiCorp Certified: Terraform Associate  
+🔗 [View Terraform Certificate](certificates/Terraform.md)  
 
-Issued by **Udemy** | **July-09-2024**  
-
-[👀View Achievement✊](https://www.udemy.com/certificate/UC-c4715f4b-c47f-43a4-b4d8-53098e0e6f68/)
+### 🏆 DevOps Certification  
+🔗 [View linux-admin](certificates/linux-administration.md)  
