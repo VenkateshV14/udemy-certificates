@@ -1,9 +1,9 @@
 # My Certifications
-### 🏆 AWS Cloud Practitioner  
-🔗 [View AWS Certificate](certificates/aws-cert.md)  
+### 🏆 AWS Cloud Practitioner course completion certificate  
+🔗 [View AWS Certificate](certificates/AWS-cert.md)  
 
-### 🏆 HashiCorp Certified: Terraform Associate  
+### 🏆 Terraform Associate course completion certificate  
 🔗 [View Terraform Certificate](certificates/Terraform.md)  
 
-### 🏆 DevOps Certification  
+### 🏆 Linux-Administration course completion certificate
 🔗 [View linux-admin](certificates/linux-administration.md)  
